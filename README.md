@@ -34,10 +34,11 @@ Atomic persistence with isolated temporary swaps.
 Rolling 10-slot snapshot backups with automatic corruption recovery.
 Full ⌘Z / ⇧⌘Z undo/redo across all actions.
 
-Installation
+Installation:
 WARNING: AS I DO NOT HAVE A DEVELOPER LICENCE APPLE WILL POTENTIALLY FLAG THE SOFTWARE! IT IS NOT MALWARE!
+
 Apple Disk Image (.dmg)
 
-Download Draft-1.0.0.dmg, double-click to open, and drag Draft into your /Applications folder. 
+Download Draft from the latest version, double-click to open, and drag Draft into your /Applications folder. 
 
-If you have any feedback, press the feedback button in the app!
+If you have any feedback, press the feedback button in the app! or view the link in the latest version upload!
