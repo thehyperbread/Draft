@@ -1,7 +1,7 @@
 <img width="1470" height="956" alt="Screenshot 2026-11-23 at 22 39 26" src="https://github.com/user-attachments/assets/400bc38e-eab7-4d3e-b8e3-e43e29ce13ec" />
 Draft
 
-A refined, local-first idea-to-project workspace for macOS. (With Windows and Linux in the works)
+A basic, local-first idea-to-project workspace for macOS. (With Windows and Linux in the works)
 
 Built in Swift and SwiftUI.
 
