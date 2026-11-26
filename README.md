@@ -1,45 +1,41 @@
 <img width="1470" height="956" alt="Screenshot 2026-11-23 at 22 39 26" src="https://github.com/user-attachments/assets/400bc38e-eab7-4d3e-b8e3-e43e29ce13ec" />
 Draft
 
-A basic, local-first idea-to-project workspace for macOS. (With Windows and Linux in the works)
+A basic, local-first idea-to-project workspace for macOS (with Windows and Linux in the works).
 
-Built in Swift and SwiftUI.
+Built in Swift and SwiftUI — runs natively on both Apple Silicon and Intel Macs (macOS 14.0+).
 
-- Features
-- Idea Briefs (The Thinking Phase): Define executive hooks, problem statements, target audiences, and key objectives without premature task lists.
-- 1-Click Promotion: Turn ideas into projects with one click. Key objectives automatically convert into structured execution milestones with zero boilerplate.
-- Precision Execution:
-Hierarchical tasks and nested subtasks.
+Features:
 
-Strict, non-double-counted completion math (0% - 100%).
+Idea Briefs (The Thinking Phase): Define executive hooks, problem statements, target audiences, and key objectives without premature task lists.
 
-Slim progress strips and precision progress rings.
+1-Click Promotion: Turn ideas into projects with one click. Key objectives automatically convert into structured execution milestones with zero boilerplate.
+
+Precision Execution: Hierarchical tasks and nested subtasks, strict non-double-counted completion math (0% - 100%), slim progress strips, and precision progress rings.
 
 Markdown Everywhere:
 Scratchpad & Notes: Segmented [Edit | Preview] toggle with headings, blockquotes, bullets, and interactive checkboxes.
 Export & Copy: ⌘⇧C to copy clean Markdown to your clipboard; ⌘⇧E to export .md documents.
 
-Keyboard-Driven Flow:
-↑ / ↓ Arrow keys to navigate tasks.
-Space to toggle completion.
-⌫ to delete.
-Rapid-fire task creation via Return.
+Keyboard-Driven Flow: ↑ / ↓ Arrow keys to navigate tasks, Space to toggle completion, ⌫ to delete, and rapid-fire task creation via Return.
 
-Drag-and-Drop Organization:
-Drag tasks to reorder them in projects.
-Drag items into folders, All Items, or Archive directly in the sidebar.
+Drag-and-Drop Organization: Drag tasks to reorder them in projects. Drag items into folders, All Items, or Archive directly in the sidebar.
 
-Local-First & Crash-Proof:
-Zero cloud dependencies, zero telemetry, zero accounts.
-Atomic persistence with isolated temporary swaps.
-Rolling 10-slot snapshot backups with automatic corruption recovery.
-Full ⌘Z / ⇧⌘Z undo/redo across all actions.
+Optional AI & Agent Integration (100% Optional):
+Includes a built-in Local Agent API (127.0.0.1) and draft:// URL scheme so external AI agents or local scripts can write notes, create ideas, and add tasks for you.
+Completely optional: Runs only on your own Mac (localhost), never sends data to the cloud and you can completely ignore it or turn it off anytime in Settings → AI & Agents. Draft works 100% manually and offline. However if you use Claude, ChatGPT or Antigravity, your prompts to the AI will remain in the cloud, but Draft works 100% offline and will never need an internet connection.
+
+Local-First & Crash-Proof: Zero cloud dependencies, zero telemetry, zero accounts. Atomic persistence with isolated temporary swaps, rolling 10-slot snapshot backups with automatic corruption recovery, and full ⌘Z / ⇧⌘Z undo/redo across all actions.
 
 Installation:
-WARNING: AS I DO NOT HAVE A DEVELOPER LICENCE APPLE WILL POTENTIALLY FLAG THE SOFTWARE! IT IS NOT MALWARE!
+
+WARNING: AS I DO NOT HAVE A DEVELOPER LICENCE APPLE WILL POTENTIALLY FLAG THE SOFTWARE! IT IS NOT MALWARE! (If macOS blocks it on first launch, right-click Draft.app → Open, or allow it in System Settings → Privacy & Security.)
 
 Apple Disk Image (.dmg)
 
-Download Draft from the latest version, double-click to open, and drag Draft into your /Applications folder. 
+Download Draft from the Releases release page, double-click to open, and drag Draft into your /Applications folder.
 
+💬 Feedback & Bug Reports
+
+If you have any feedback or spot a bug, press the Feedback button inside the app, or use the link in the latest release!
 If you have any feedback, press the feedback button in the app! or view the link in the latest version upload!
