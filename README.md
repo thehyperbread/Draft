@@ -39,3 +39,5 @@ Download Draft from the Releases release page, double-click to open, and drag Dr
 
 If you have any feedback or spot a bug, press the Feedback button inside the app, or use the link in the latest release!
 If you have any feedback, press the feedback button in the app! or view the link in the latest version upload!
+
+Draft is considered finished for me. Next up for Draft is the Windows and Linux Versions and after that I won't work on it unless I get suggestions I think work or bugs to fix. 
