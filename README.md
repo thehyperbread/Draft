@@ -6,7 +6,7 @@ Current Windows Version 1.2.0
 
 Draft
 
-A basic, local-first idea-to-project workspace for macOS and Windows (Linux in the works).
+A basic, local-first idea-to-project workspace for macOS and Windows (Linux in the works). Made for myself but I decided to release it.
 
 Built in Swift and SwiftUI — runs natively on both Apple Silicon and Intel Macs (macOS 14.0+).
 On Windows 10-11 are supported! (I may dripple into older versions being supported!) 
